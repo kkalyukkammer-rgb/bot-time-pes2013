@@ -36,7 +36,7 @@ jogadores = {
     "Carlos Ycáro": 84,
     "Necus": 84,
     "Dudu": 83,
-    "Gin Gagamaru": 83,
+    "Gin Gagamaru": 84,
     "Gutte": 83,
     "Taddei": 83,
     "Bitata Teco": 82,
